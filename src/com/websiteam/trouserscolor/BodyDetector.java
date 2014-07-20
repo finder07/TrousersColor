@@ -15,7 +15,7 @@ import android.util.Log;
 
 public class BodyDetector {
 		
-	private static final String TAG = "myLOG";
+	//private static final String TAG = "myLOG";
 		
 	private static final int MAX_BODY_IMG_WIDTH = 320;
 	private CascadeClassifier	_mJavaDetector; 
